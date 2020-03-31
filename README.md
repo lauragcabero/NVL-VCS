@@ -1,0 +1,3 @@
+Esto es el prework del bootcamp de Full Stack de Upgrade Hub.
+Consiste en hacer una serie de ejercicios de preparación al bootcamp, 
+como pueden ser prácticas de GitHub, JS, etc...
